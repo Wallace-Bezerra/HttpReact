@@ -1,0 +1,13 @@
+.products {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.product {
+    background-color: rgb(133, 132, 131);
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+    height: 100px;
+}
